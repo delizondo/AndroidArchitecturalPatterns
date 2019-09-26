@@ -1,1 +1,1 @@
-# AndroidArchituralPatterns
+# AndroidArchitecturalPatterns
